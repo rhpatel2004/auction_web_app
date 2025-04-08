@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
@@ -10,3 +11,7 @@ Currently, two official plugins are available:
 ## Expanding the ESLint configuration
 
 If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+=======
+# auction_web_app
+Auction Web Application:Built a platform allowing sellers to create auction items with descriptions and bidding rules, and bidders to participate in real-time bidding processes.
+>>>>>>> 1b0e8d1c7ad865a118f7e80fab9b783594751b32
